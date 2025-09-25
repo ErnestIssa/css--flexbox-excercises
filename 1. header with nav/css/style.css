@@ -29,7 +29,8 @@ header {
     font-size: 18px;
     font-family:'Times New Roman', Times, serif
 }
-.list-item a.about {
+.list-item a:hover {
     color: blue;
-    text-decoration: underline;
+    border-bottom: 2px solid blue;
+    
 }
